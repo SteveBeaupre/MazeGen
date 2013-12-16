@@ -1,0 +1,12 @@
+EXPORTS
+         _SetMainWndHandle    @1
+         _AllocateMazeCells   @2
+		 _BuildMaze           @3
+		 _CancelMaze          @4
+		 _FreeMazeCells       @5
+		 _SolveMaze           @6
+		 _GenMazeBitmapBuffer @7
+		 _SaveMazeAsRawImage  @8
+		 _LoadMaze            @9
+		 _SaveMaze            @10
+		 _GetCellInfo         @11
